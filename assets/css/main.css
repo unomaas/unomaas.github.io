@@ -2940,9 +2940,10 @@ body.is-menu-visible #menu .inner {
   filter: blur(0);
   opacity: 1;
   font-family: Raleway, Helvetica, sans-serif;
-  font-size: 1em;
-  font-weight: 200;
+  font-size: 1.25em;
+  font-weight: 500;
   letter-spacing: 0.1em;
+  /* -webkit-text-stroke: .09px black; */
   line-height: 2;
   text-transform: uppercase;
 }
@@ -2983,7 +2984,7 @@ body.is-menu-visible #menu .inner {
     font-size: 1.5em;
   }
   #banner p {
-    font-size: 0.8em;
+    font-size: 1em;
   }
 }
 
