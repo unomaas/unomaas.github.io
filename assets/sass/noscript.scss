@@ -1,0 +1,35 @@
+@import 'libs/vars';
+@import 'libs/functions';
+@import 'libs/mixins';
+@import 'libs/vendor';
+@import 'libs/breakpoints';
+@import 'libs/html-grid';
+
+/*
+	Solid State by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+*/
+
+/* Banner */
+
+	#banner {
+		body.is-preload & {
+			.logo {
+				@include vendor('transform', 'none');
+				opacity: 1;
+			}
+
+			h2 {
+				opacity: 1;
+				@include vendor('transform', 'none');
+				@include vendor('filter', 'none');
+			}
+
+			p {
+				opacity: 01;
+				@include vendor('transform', 'none');
+				@include vendor('filter', 'none');
+			}
+		}
+	}
