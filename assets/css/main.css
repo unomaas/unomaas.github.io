@@ -2491,7 +2491,7 @@ input[type="submit"].disabled, input[type="submit"]:disabled, input[type="reset"
 
 @media screen and (max-width: 480px) {
   input[type="submit"], input[type="reset"], input[type="button"], button, .button {
-    padding: 0;
+    padding-bottom: 1em;
   }
 }
 
@@ -2574,7 +2574,7 @@ input[type="submit"].disabled, input[type="submit"]:disabled, input[type="reset"
   -webkit-transition: background-color 0.2s ease-in-out;
   -ms-transition: background-color 0.2s ease-in-out;
   transition: background-color 0.2s ease-in-out;
-  background-color: rgba(53, 56, 73, 0.85);
+  background-color: rgba(53, 56, 73, 0.7);
   height: 3.5em;
   left: 0;
   line-height: 3.5em;
@@ -3479,8 +3479,8 @@ body.is-preload #banner p {
 #footer .inner .copyright {
   border-top: solid 2px rgba(255, 255, 255, 0.125);
   list-style: none;
-  margin: 4em 0 2em 0;
-  padding: 2em 0 0 0;
+  margin: 1em 0 1em 0;
+  padding: 1em 0 0 0;
   width: 100%;
 }
 
