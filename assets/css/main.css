@@ -3382,7 +3382,7 @@ body.is-preload #banner p {
     left: 0;
   }
   .wrapper .inner {
-    padding: 3em 3em 1em 3em;
+    padding: 2em 2em .5em 2em;
     width: 100%;
   }
   .wrapper.spotlight .image {
@@ -3409,7 +3409,7 @@ body.is-preload #banner p {
     left: 0;
   }
   .wrapper .inner {
-    /* padding: 2em 2em 0.1em 2em; */
+    padding: 2em 2em 0.5em 2em;
   }
   .wrapper.spotlight .inner {
     -moz-align-items: -moz-flex-start;
@@ -3439,7 +3439,7 @@ body.is-preload #banner p {
 
 @media screen and (max-width: 360px) {
   .wrapper .inner {
-    padding: 2em 1.5em 0.1em 1.5em;
+    padding: 1.5em 1.5em 0.1em 1.5em;
   }
 }
 
@@ -3572,17 +3572,6 @@ body.is-preload #banner p {
     padding: 2em 1.5em 0.1em 1.5em;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
 
 /* Gallery (transitions) */
 
@@ -4539,6 +4528,7 @@ body.is-preload .gallery.onload-fade-in article .image img {
   width: 100%;
   border-radius: 0;
 }
+
 /* 
 .gallery.styleGallery article .caption {
   -moz-align-items: center;
@@ -4852,7 +4842,7 @@ body.is-preload .gallery.onload-fade-in article .image img {
 
 @media screen and (max-width: 980px) {
   .gallery.lightbox .modal .inner img {
-    max-width: 100vw;
+    max-width: 85vw;
   }
 }
 
