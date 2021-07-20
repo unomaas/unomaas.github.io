@@ -3486,7 +3486,7 @@ body.is-preload #banner p {
 
 #footer .inner .copyright li {
   border-left: solid 2px rgba(255, 255, 255, 0.125);
-  color: rgba(255, 255, 255, 0.35);
+  color: rgba(255, 255, 255, 0.5);
   display: inline-block;
   font-size: 0.9em;
   line-height: 1;
@@ -4539,7 +4539,7 @@ body.is-preload .gallery.onload-fade-in article .image img {
   width: 100%;
   border-radius: 0;
 }
-
+/* 
 .gallery.styleGallery article .caption {
   -moz-align-items: center;
   -webkit-align-items: center;
@@ -4572,14 +4572,18 @@ body.is-preload .gallery.onload-fade-in article .image img {
   padding: 3rem;
   z-index: 1;
   font-size: 0.8rem;
-}
+} */
 
 .gallery.styleGallery article .caption a {
   pointer-events: auto;
 }
 
+.gallery.styleGallery article .caption p {
+  font-size: .8em;
+}
+
 .gallery.styleGallery article .caption h2, .gallery.styleGallery article .caption h3, .gallery.styleGallery article .caption h4, .gallery.styleGallery article .caption h5, .gallery.styleGallery article .caption h6 {
-  font-size: 1.25rem;
+  /* font-size: 1.25rem; */
   margin-bottom: 0.25rem;
 }
 
@@ -4633,18 +4637,18 @@ body.is-preload .gallery.onload-fade-in article .image img {
 }
 
 .gallery.styleGallery.big article .caption {
-  padding: 4rem;
+  padding: 1rem;
 }
 
 @media screen and (max-width: 980px) {
   .gallery.styleGallery.big article .caption {
-    padding: 3rem;
+    padding: .75rem;
   }
 }
 
 @media screen and (max-width: 736px) {
   .gallery.styleGallery.big article .caption {
-    padding: 2rem;
+    padding: .75rem;
   }
 }
 
@@ -4800,22 +4804,26 @@ body.is-preload .gallery.onload-fade-in article .image img {
   opacity: 0;
 }
 
-.gallery.lightbox .modal .inner img {
+/* .gallery.lightbox .modal .inner img {
   display: block;
   max-width: 90vw;
   max-height: 85vh;
   box-shadow: 0 1rem 3rem 0 rgba(0, 0, 0, 0.35);
-}
+} */
 
 .gallery.lightbox .modal.visible {
   pointer-events: auto;
   visibility: visible;
   opacity: 1;
   z-index: 10001;
+  text-align: center;
+  margin: 0 auto;
 }
 
 .gallery.lightbox .modal.visible:before {
   opacity: 1;
+  text-align: center;
+  margin: 0 auto;
 }
 
 .gallery.lightbox .modal.loaded .inner {
@@ -4828,6 +4836,8 @@ body.is-preload .gallery.onload-fade-in article .image img {
   -ms-transition: opacity 0.5s ease, -ms-transform 0.5s ease;
   transition: opacity 0.5s ease, transform 0.5s ease;
   opacity: 1;
+  text-align: center;
+  margin: 0 auto;
 }
 
 .gallery.lightbox .modal.loaded:before {
@@ -4836,6 +4846,8 @@ body.is-preload .gallery.onload-fade-in article .image img {
   -ms-transition-delay: 0s;
   transition-delay: 0s;
   opacity: 0;
+  text-align: center;
+  margin: 0 auto;
 }
 
 @media screen and (max-width: 980px) {
