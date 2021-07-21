@@ -3382,7 +3382,7 @@ body.is-preload #banner p {
     left: 0;
   }
   .wrapper .inner {
-    padding: 2em 2em .5em 2em;
+    padding: .5em 2em .5em 2em;
     width: 100%;
   }
   .wrapper.spotlight .image {
@@ -3409,7 +3409,7 @@ body.is-preload #banner p {
     left: 0;
   }
   .wrapper .inner {
-    padding: 2em 2em 0.5em 2em;
+    padding: .5em 2em 0.5em 2em;
   }
   .wrapper.spotlight .inner {
     -moz-align-items: -moz-flex-start;
@@ -3439,7 +3439,7 @@ body.is-preload #banner p {
 
 @media screen and (max-width: 360px) {
   .wrapper .inner {
-    padding: 1.5em 1.5em 0.1em 1.5em;
+    padding: .5em 1.5em 0.1em 1.5em;
   }
 }
 
@@ -4853,3 +4853,7 @@ body.is-preload .gallery.onload-fade-in article .image img {
 #wrapper>.invert .gallery article .image {
   background-color: rgba(255, 255, 255, 0.125);
 }
+
+.anchor {
+  border-bottom: none;
+} 
