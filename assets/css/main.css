@@ -2436,7 +2436,7 @@ input[type="submit"], input[type="reset"], input[type="button"], button, .button
   height: 3.75em;
   letter-spacing: 0.1em;
   line-height: 3.75em;
-  padding: 0 2.25em;
+  padding: 0 1.5em;
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
