@@ -1,11 +1,9 @@
-/*
-  Solid State by Pixelarity
-  pixelarity.com | hello@pixelarity.com
-  License: pixelarity.com/license
-*/
-
 (function ($) {
 
+  // Welcome message: 
+  console.log('How do you do, fellow devs?!');
+  console.log('Hello, and thanks for poking around my website! I invite you to dig into everything you can, and trust me, feedback is always welcome! <3');
+  
   var $window = $(window),
     $body = $('body'),
     $header = $('#header'),
