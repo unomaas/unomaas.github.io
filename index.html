@@ -538,6 +538,14 @@
   <script src="assets/js/breakpoints.min.js"></script>
   <script src="assets/js/util.js"></script>
   <script src="assets/js/main.js"></script>
+  <script>{`
+    (function() {
+      var info = console.info
+      console.info = function (message) {
+        if (!/Download the React DevTools/.test(message)) info.apply(console, arguments) 
+      }
+    })()
+  `}</script>
 
 </body>
 
