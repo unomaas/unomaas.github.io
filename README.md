@@ -1,47 +1,31 @@
-# Personal Website
-
-A personal website is a great way to sell yourself while job hunting. Your website should include information about who you are, what you do, and link to places you are on the internet (GitHub, LinkedIn, etc.). It can also serve as an online resume with a portfolio of your work. Extending that further, it can also be a nice way to talk about things that you are learning or projects that you working on in a blog form as well. 
-
-There are 4 different types of personal websites that you might create:
-
-- Static Landing Page
-- Static Site with several pages (think Home, Projects, Contact, etc.)
-- Static Blog (Blog without comments)
-- Full Blog Site (with comments)
-
-## Requirements
-
-Create a personal website/hub for your job hunt. 
-
-Should have at a minimum: 
-
-- contact info
-- link to LinkedIn
-- links to github repos. 
-
-Consider adding images for your pinned projects, assuming a visitor may not click through the repo.
-
-> If you choose to include a blog, make sure to continue updating it on a regular basis so the site doesn't look forgotten or out of date!
-
-### Resources
-
-- https://startbootstrap.com/template-categories/landing-pages/
-- https://hexo.io/
-- https://wordpress.com/
-- https://pages.github.com/
-- Deployment to Netlify (no server needed): https://www.netlify.com/
-- React App deployment (AWS, Github Pages, Heroku, Firebase): https://create-react-app.dev/docs/deployment/
-- Custom domains for heroku: https://support.google.com/domains/answer/6346300?hl=en
+# My Portfolio 
 
 
-## Alumni Student Examples
+## Description
 
-Most are static HTML/CSS sites from templates, but not all. There are many ways to tackle this!
+Hello, thank you for your interest in my work and viewing my portfolio!  And especially more so for looking at the code for my portfolio!   
 
-- https://jakestucky.github.io/ (Tarjan)
-- https://ashleyberry.github.io/ab-portfolio/ (Tarjan)
-- https://michaelsiddall.github.io/ (Tarjan)
-- https://jjschubert.dev/ (Rabin)
-- https://dwsmith.dev/#/ (Dane the Instructor)
-- https://emersona-glitch.github.io/ (Rabin)
-- https://bradytrudeau.github.io/ (Tarjan)
+This is the ReadMe for my personal portfolio page, built and fine-tuned by yours truly!  I've personally spent *far* too much time tweaking little things and adding easter eggs to this page, so I appreciate you being here to make that time worthwhile. <3 
+
+
+## Usage
+
+Browse to your hearts content!  I've done my best to make my portfolio as smooth as seamless as possible.  In the top right, there is a hamburger navigation menu with smooth-scrolling.  There are also down-arrows on the page for ease-of-navigation.  Lastly, viewing "What I've Created" will load my previous projects, which can be demo'd via a gif by clicking on each thumbnail.
+
+I'm proud to state this page is fully responsive and can be viewed on PC or mobile!
+
+
+### Accessibility:
+
+I strive to make my apps accessible to all!  This particular project is fully detailed with descriptions for text-readers.  
+
+### Built With
+
+JavaScript/HTML/CSS, jQuery, and Sass. 
+
+### Acknowledgement
+
+I'd like to give thanks to Dane Smith, and everyone in Prime Academy's Genocchi cohort, for teaching me everything at Prime Digital Academy!  I wouldn't be here today without them.
+
+### Support
+If you have suggestions, comments, or issues, please contact me at rdmjobs@live.com. Thanks for reviewing my project! Stay wonderful. <3
