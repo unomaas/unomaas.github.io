@@ -1,6 +1,5 @@
 # My Portfolio 
 
-Hello, thank you for your interest in my work and viewing my portfolio!  And especially more so for looking at the code for my portfolio!   
 
 
 ## Description
@@ -15,17 +14,17 @@ Browse to your hearts content!  I've done my best to make my portfolio as smooth
 I'm proud to state this page is fully responsive and can be viewed on PC or mobile!
 
 
-### Accessibility:
+### Accessibility
 
 I strive to make my apps accessible to all!  This particular project is fully detailed with descriptions for text-readers.  
 
-### Built With:
+### Built With
 
 JavaScript/HTML/CSS, jQuery, and Sass. 
 
-### Acknowledgement:
+### Acknowledgement
 
 I'd like to give thanks to Dane Smith, and everyone in Prime Academy's Genocchi cohort, for teaching me everything at Prime Digital Academy!  I wouldn't be here today without them.
 
-### Support:
+### Support
 If you have suggestions, comments, or issues, please contact me at rdmjobs@live.com. Thanks for reviewing my project! Stay wonderful. <3
