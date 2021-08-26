@@ -1,9 +1,9 @@
 # My Portfolio 
 
+Hello, thank you for your interest in my work and viewing my portfolio!  And especially more so for looking at the code for my portfolio!   
+
 
 ## Description
-
-Hello, thank you for your interest in my work and viewing my portfolio!  And especially more so for looking at the code for my portfolio!   
 
 This is the ReadMe for my personal portfolio page, built and fine-tuned by yours truly!  I've personally spent *far* too much time tweaking little things and adding easter eggs to this page, so I appreciate you being here to make that time worthwhile. <3 
 
