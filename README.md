@@ -19,13 +19,13 @@ I'm proud to state this page is fully responsive and can be viewed on PC or mobi
 
 I strive to make my apps accessible to all!  This particular project is fully detailed with descriptions for text-readers.  
 
-### Built With
+### Built With:
 
 JavaScript/HTML/CSS, jQuery, and Sass. 
 
-### Acknowledgement
+### Acknowledgement:
 
 I'd like to give thanks to Dane Smith, and everyone in Prime Academy's Genocchi cohort, for teaching me everything at Prime Digital Academy!  I wouldn't be here today without them.
 
-### Support
+### Support:
 If you have suggestions, comments, or issues, please contact me at rdmjobs@live.com. Thanks for reviewing my project! Stay wonderful. <3
