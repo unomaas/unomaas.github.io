@@ -4852,3 +4852,21 @@ body.is-preload .gallery.onload-fade-in article .image img {
 .anchor {
   border-bottom: none;
 } 
+
+.referralQuote {
+  margin-bottom: .2em !important;
+}
+
+.referralName {
+  margin-bottom: .8em !important;
+}
+
+.referralHeadshot {
+  width: 215px !important;
+  height: 215px !important;
+}
+
+.centerContent {
+  margin: 0 auto !important;
+  text-align: center !important;
+}
